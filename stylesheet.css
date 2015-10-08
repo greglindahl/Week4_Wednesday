@@ -2,6 +2,10 @@ body {
     background: url("images/brickwall.png");
 }
 
+.bodyChange {
+    background: url("images/dark_embroidery.png");
+}
+
 h1 {
   text-align: center;
   font-family: 'Rock Salt', cursive;
@@ -77,6 +81,11 @@ li {
   padding-top: 20px;
 }
 
+#social-icon-background {
+  border-radius: 10px;
+  background-color: #6bd2db;
+}
+
 #social-links {
  margin-left: 41.5%;
 }
@@ -106,6 +115,10 @@ li {
   width: 300px;
 }
 
+.reference-contact {
+  display: none;
+}
+
 .reference-contact.hidden {
   visibility:hidden;
 }
@@ -122,4 +135,8 @@ li {
   background:#dbdbdb;
   cursor:pointer;
   color: #556270;
+}
+
+#contactButton {
+  margin-top: 50px;
 }
