@@ -1,4 +1,6 @@
+#Greg Lindahl#
 #Resume Fun#
+
 1. The text under "Click for short bio" should not be visible unless the user clicks the flip id.
    Hint: Google the jQuery slideToggle function
 
